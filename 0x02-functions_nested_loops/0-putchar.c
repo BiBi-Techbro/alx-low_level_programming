@@ -1,10 +1,9 @@
-#include "main.h"
-
-/**
- *main - print _putchar
- *is written by BiBi_Tech
- *Return: Always 0 (Success)
+ *
+ * main - print _putchar
+ * is written by bibi
+ * Return: 0
  */
+
 
 int main(void)
 {
@@ -17,6 +16,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }
